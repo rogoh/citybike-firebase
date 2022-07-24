@@ -1,0 +1,7 @@
+name: "Reto Sitio con Firebase Ciencia de Datos - Modulo 6"
+navbar:
+  title: "Home"
+  left:
+    - text: "Home"
+      href: index.html
+   
